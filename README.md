@@ -23,9 +23,8 @@ The server implements the following tools:
 
 The server is built with resource efficiency in mind:
 
-- Resource caching system to minimize API calls to Monday.com
 - Clear separation between resource management and tool implementation
-- Simple and maintainable codebase under 100 lines per module
+- Simple and maintainable codebase under 30 lines per module
 
 ## Setup
 
